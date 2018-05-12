@@ -1,0 +1,33 @@
+_repo: Zwischen-neun-und-neun_36901
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perutz, Leo
+    birthdate: 1882
+    deathdate: 1957
+    gutenberg_agent_id: '38527'
+    url: http://www.gutenberg.org/2009/agents/38527
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Leo_Perutz
+    - http://de.wikipedia.org/wiki/Leo_Perutz
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36901'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vienna (Austria) -- Fiction'
+- !lcsh 'Social structure -- Austria -- Vienna -- Fiction'
+- !lcsh 'Social classes -- Austria -- Vienna -- Fiction'
+- !lcsh 'Identity (Psychology) -- Fiction'
+- !lcc 'PT'
+title: Zwischen neun und neun
+url: http://www.gutenberg.org/ebooks/36901
