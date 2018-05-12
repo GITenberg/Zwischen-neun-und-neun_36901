@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Leo_Perutz
     - http://de.wikipedia.org/wiki/Leo_Perutz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36901#Zwischen-neun-und-neun
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-07-30'
 gutenberg_type: Text
